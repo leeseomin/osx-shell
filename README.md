@@ -2,7 +2,7 @@
 osx shell script
 
 
-### poweroff 
+### poweroff :  Turn off the Mac with the "poweroff" command in the terminal.
 ```
 
 echo '#!/bin/bash\nsudo shutdown -h now' > poweroff
