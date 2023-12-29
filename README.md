@@ -12,3 +12,11 @@ chmod +x poweroff
 sudo mv poweroff /usr/local/bin/
 
 ```
+
+### running Processes info
+
+```
+top
+```
+
+
