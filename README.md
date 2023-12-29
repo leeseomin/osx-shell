@@ -1,5 +1,4 @@
-# osx-shell
-osx shell script or cmd 
+# osx-shell script or cmd 
 
 
 ### poweroff :  Turn off the Mac with the "poweroff" command in the terminal.
