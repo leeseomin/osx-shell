@@ -1,8 +1,10 @@
 # 🟡 osx-shell script in terminal ✔️
 
 ★
-★
-★
+<br>
+<br>
+<br>
+
 
 ### poweroff :  Turn off the Mac with the "poweroff" command in the terminal.
 ```
