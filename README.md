@@ -1,6 +1,6 @@
 # 🟡 osx-shell script in terminal ✔️
 
-★
+
 <br>
 <br>
 <br>
