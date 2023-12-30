@@ -20,7 +20,7 @@ top
 
 
 
-###  "zam"  : enter sleep mode
+###  "zam"  : enter sleep mode  "zam" command in the terminal.
 ```
 # Create the 'sleep' script with the command to enter sleep mode
 echo '#!/bin/bash\npmset sleepnow' > zam 
