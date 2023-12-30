@@ -13,7 +13,7 @@ sudo mv poweroff /usr/local/bin/
 ```
 
 
-### "webp" Command to convert images in a folder into webp files
+### "webp" Command to convert images in a folder into webp image files
 
 ```
 echo '#!/bin/bash' > webp
