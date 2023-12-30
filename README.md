@@ -1,4 +1,4 @@
-# osx-shell script 
+# osx-shell script in terminal 
 
 
 ### poweroff :  Turn off the Mac with the "poweroff" command in the terminal.
@@ -11,6 +11,19 @@ chmod +x poweroff
 sudo mv poweroff /usr/local/bin/
 
 ```
+
+
+### "webp" Command to convert images in a folder into webp files
+
+```
+echo '#!/bin/bash' > webp
+echo 'parallel convert {} -quality 98 {}.webp ::: *.*' >> webp
+
+chmod +x webp
+sudo mv webp /usr/local/bin/
+```
+
+
 
 ### running Processes info
 
