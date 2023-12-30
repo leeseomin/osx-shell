@@ -19,3 +19,15 @@ top
 ```
 
 
+
+###  zam  : enter sleep mode
+```
+# Create the 'sleep' script with the command to enter sleep mode
+echo '#!/bin/bash\npmset sleepnow' > zam 
+
+# Make the 'sleep' script executable
+chmod +x zam
+
+# Move the 'sleep' script to /usr/local/bin/ to make it globally accessible
+sudo mv zam /usr/local/bin/
+```
