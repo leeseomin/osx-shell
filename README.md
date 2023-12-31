@@ -48,6 +48,10 @@ chmod +x zam
 
 # Move the 'sleep' script to /usr/local/bin/ to make it globally accessible
 
+sudo mv zam /usr/local/bin/
+```
+
+
 
 
 ### "rename" : Rename all files in the current directory to numbers starting from 10000.
@@ -69,5 +73,3 @@ sudo mv rename /usr/local/bin/
 ```
 
 
-sudo mv zam /usr/local/bin/
-```
